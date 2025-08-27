@@ -1,5 +1,5 @@
 # Film-Retailer-Schema
-Building the schema
+Let's build a schema for a film retailer
 
 # Create Tables 
 
