@@ -1,4 +1,4 @@
-# Create Tables 
+--Create Tables 
 
 CREATE TABLE CUSTOMER ( <br/>
 CUSTOMER_ID NUMBER (10) NOT NULL, <br/>
