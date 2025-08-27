@@ -63,7 +63,7 @@ ALTER TABLE MOVIES ADD CONSTRAINT CK_CAT CHECK (CATEGORY IN ('DRAMA', 'COMEDY', 
 
 # Insert Table Data
 
---This is sample data. The names and personal information provided is fictional.
+--This is sample data. The names and personal information provided are fictional.
 
 INSERT INTO MOVIES ( <br/>
 TITLE_ID, TITLE, DESCRIPTION, RATING, CATEGORY, RELEASE_DATE) <br/>
