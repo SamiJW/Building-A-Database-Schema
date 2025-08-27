@@ -1,5 +1,4 @@
-# Insert Table Data
-
+--Insert Table Data
 --This is sample data. The names and personal information provided are fictional.
 
 INSERT INTO MOVIES ( <br/>
