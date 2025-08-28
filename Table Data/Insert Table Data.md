@@ -1,6 +1,6 @@
 --Insert Table Data
 --This is sample data. The names and personal information provided are fictional.
-
+````sql
 INSERT INTO MOVIES <br/>
   (TITLE_ID, TITLE, DESCRIPTION, RATING, CATEGORY, RELEASE_DATE) <br/>
 VALUES <br/>
@@ -73,3 +73,4 @@ VALUES
   (102, TO_DATE ('2006-08-15', 'YYYY-MM-DD'), 16, TO_DATE ('2006-09-10', 'YYYY-
   MM-DD') <br/>
 );
+````
