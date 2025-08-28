@@ -1,4 +1,6 @@
---Create Tables 
+## Here we will write a script to create tables for the film retailer's inventory and sales. 
+Tables include: Customer, Actors, Movies, Star Billings, Media, Rental History
+
 ````sql
 CREATE TABLE CUSTOMER ( 
   CUSTOMER_ID NUMBER (10) NOT NULL, 
