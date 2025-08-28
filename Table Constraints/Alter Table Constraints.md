@@ -1,4 +1,7 @@
---Set Table Primary Key, Foreign Key, Check Constraints
+## Let's update the tables to have Primary Key, Foreign Key, and Check Constraints.
+
+These constraints will establish entity relationships for optimized queries and data integrity.
+
 ````sql
 ALTER TABLE CUSTOMER ADD CONSTRAINT PK_CUSTOMER PRIMARY KEY (CUSTOMER_ID);
 ALTER TABLE ACTORS ADD CONSTRAINT PK_ACTORS PRIMARY KEY (ACTOR_ID);
