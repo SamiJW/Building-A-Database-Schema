@@ -1,4 +1,4 @@
---Insert Table Data
+## Now let's script some sample data to our database.
 
 *This is sample data. The names and personal information provided are fictional.*
 
