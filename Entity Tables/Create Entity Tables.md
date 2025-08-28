@@ -1,5 +1,5 @@
 --Create Tables 
-
+````sql
 CREATE TABLE CUSTOMER ( <br/>
 CUSTOMER_ID NUMBER (10) NOT NULL, <br/>
 LAST_NAME VARCHAR2 (25) NOT NULL, <br/>
@@ -42,3 +42,4 @@ RENTAL_DATE DATE NOT NULL, <br/>
 CUSTOMER_ID NUMBER (10) NOT NULL, <br/>
 RETURN_DATE DATE <br/>
 ); <br/>
+````
