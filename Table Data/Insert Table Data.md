@@ -1,6 +1,6 @@
 ## Now let's script some sample data to our database.
 
-*This is sample data. The names and personal information provided are fictional.*
+**The names and personal information provided are fictional.**
 
 ````sql
 INSERT INTO MOVIES
