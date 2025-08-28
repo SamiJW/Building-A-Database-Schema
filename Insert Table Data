@@ -7,11 +7,10 @@ VALUES <br/>
   (1, 'The Saw Shank Redemption', 'A banker convicted of uxoricide forms a
   friendship over a quarter century with a hardened convict, while maintaining his
   innocence and trying to remain hopeful through simple compassion.', 'R', 'DRAMA',
-TO_DATE ('1994-11-13', 'YYYY-MM-DD')), <br/>
-(2, 'The Godfather', 'The aging patriarch of an organized crime dynasty
-transfers control of his clandestine empire to his reluctant son.', 'R', 'DRAMA',
-TO_DATE ('1972-03-15','YYYY-MM-DD') <br/>
-); <br/>
+  TO_DATE ('1994-11-13', 'YYYY-MM-DD')), <br/>
+  (2, 'The Godfather', 'The aging patriarch of an organized crime dynasty
+  transfers control of his clandestine empire to his reluctant son.', 'R', 'DRAMA',
+  TO_DATE ('1972-03-15','YYYY-MM-DD')), <br/>
 INSERT INTO MOVIES ( <br/>
 TITLE_ID, TITLE, DESCRIPTION, RATING, CATEGORY, RELEASE_DATE) <br/>
 VALUES ( <br/>
