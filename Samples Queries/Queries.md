@@ -1,6 +1,6 @@
-## Here we will address specific business tasks using SELECT and JOIN queries
+# Here we will address specific business tasks using SELECT and JOIN queries
 
-# How many customers have created an account?
+## How many customers have created an account?
 ````sql
 SELECT
  distinct(count(customer.customer_id)) AS Customers
@@ -10,7 +10,7 @@ FROM
 <img width="713" height="105" alt="image" src="https://github.com/user-attachments/assets/f99912f6-b389-4150-8a75-0f7e944a7e96" />
 
 
-# How many customers have rented a film?
+## How many customers have rented a film?
 ````sql
 SELECT
  distinct(count(rental_history.customer_id)) AS Customers 
