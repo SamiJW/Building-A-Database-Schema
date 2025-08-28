@@ -1,3 +1,5 @@
+## Here we will address specific business tasks using SELECT and JOIN queries
+
 # How many customers have created an account?
 ````sql
 SELECT
