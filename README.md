@@ -1,5 +1,5 @@
 # Film-Retailer-Schema
-Let's build a schema for a film retailer
+Let's build a database schema for a film retailer.
 
 # Table of Contents
 - [Create Tables](https://github.com/SamiJW/Film-Retailer-Schema/blob/main/Entity%20Tables/Create%20Entity%20Tables.md)
