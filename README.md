@@ -1,5 +1,5 @@
-# Film-Retailer-Schema
-Let's build a database schema for a film retailer.
+# Film Retailer Database Schema
+Let's walk through the creation of a database schema for a film retailer, update it, and query it to pull results that address specific business tasks.
 
 # Table of Contents
 - [Create Tables](https://github.com/SamiJW/Film-Retailer-Schema/blob/main/Entity%20Tables/Create%20Entity%20Tables.md)
